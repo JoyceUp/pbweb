@@ -1,0 +1,158 @@
+.cooperation-con{
+  width: 1200px;
+  margin: 0 auto;
+}
+.cooperation-list{
+display: flex;
+}
+.cooperation-con-list{
+  margin-top: 201px;
+margin-bottom: 200px;
+}
+.cooperation-tab{
+  padding-top: 43px;
+  margin-right: 68px;
+}
+.cooperation-tab .cooperation-tab-choose{
+  background: #5ccdf5;
+}
+.cooperation-tab p{
+  display: block;
+  height: 84px;
+  width: 84px;
+  background: #1a254b;
+  text-align: center;
+  color: #fff;
+  line-height: 84px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+}
+.cooperation-text{
+  width: 700px;
+  margin-right: 97px;
+}
+.cooperation-text h3{
+  font-size: 36px;
+  margin-bottom: 48px;
+}
+.cooperation-text h5{
+  font-size: 20px;
+  margin-bottom: 60px;
+  color: #333;
+}
+.cooperation-text p{
+  font-size: 16px;
+  color: #999;
+  line-height: 1.5;
+}
+.cooperation-text-p1{
+  margin-bottom: 20px;
+}
+.cooperation-img{
+  width: 300px;
+  margin-top: 30px;
+}
+.cooperation-img img{
+  width: 300px;
+}
+.cooperation-con-map{
+  margin-bottom: 661px;
+  position: relative;
+  height: 588px;
+}
+.cooperation-con-map h5{
+  font-size: 34px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.cooperation-con-bg{
+  width: 1200px;
+  background: url(../images/cooperation/map.png) no-repeat;
+  height: 588px;
+  background-size: contain;
+  position: relative;
+}
+.cooperation-con-icon{
+  position: absolute;
+  right: 367px;
+  top: 80px;
+}
+.cooperation-form{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
+.cooperation-form-content{
+  display: flex;
+}
+.uesr-input{
+  display: flex;
+  width: 456px;
+  height: 51px;
+  background: #fff;
+  border: 1px solid #f1eeee;
+  margin-bottom: 20px;
+}
+.uesr-input label{
+  line-height: 51px;
+  font-size: 16px;
+  color: #999;
+  padding-left: 10px;
+}
+.uesr-input input{
+  width: 340px;
+  border: none;
+  height: 48px;
+  line-height: 48px;
+  font-size: 16px;
+}
+.uesr-textarea{
+  display: flex;
+  background: #fff; 
+  height: 200px;
+  border: 1px solid #f1eeee;
+  width: 456px;
+}
+.user-name textarea{
+ border: none;
+ padding-top: 10px;
+}
+.uesr-textarea label{
+  font-size: 16px;
+  color: #999;
+  padding-left: 10px;
+  padding-top: 10px;
+  color: #999;
+}
+.cooperation-form-right{
+  margin-left: 20px;
+}
+.cooperation-form-btn{
+  width: 936px;
+  text-align: center;
+  margin-top: 20px;
+}
+.cooperation-form-push{
+  padding: 10px 30px;
+  font-size: 16px;
+    border-radius: 20px;
+    border: 1px solid #f1eeee;
+    color: #999;
+}
+.cooperation-form-push:hover{
+  border: 1px solid #2bb7e7;
+  background: #2bb7e7;
+  color: #fff;
+}
+.cooperation-form-text{
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 36px;
+}
+.cooperation-form-text p{
+  line-height: 1.5;
+}

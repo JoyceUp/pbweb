@@ -1,0 +1,35 @@
+
+.account-content{
+  width: 1100px;
+  margin: 0 auto;
+  font-size: 16px;
+}
+.detail-click{
+ margin-bottom: 40px;
+}
+.detail-con{
+  margin: 20px;
+}
+.detail-con h3{
+  font-size: 30px;
+  color: #2bb7e7;
+  text-align: center;
+}
+.detail-con h5{
+  font-size: 24px;
+  color: #666;
+  text-align: center;
+}
+.detail-con p{
+  font-size: 16px;
+  color: #999;
+  line-height: 2;
+}
+.detail-con p.title{
+  text-align: center;
+  color: #666;
+  line-height: 2;
+}
+.content-text{
+  margin-bottom: 40px;
+}

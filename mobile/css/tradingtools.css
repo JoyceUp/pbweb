@@ -1,0 +1,120 @@
+.tradingtools-contnet{
+  margin: 0 .48rem;
+  text-align: center;
+}
+.tradingtools-p1{
+  font-size: .48rem;
+  color: #333;
+}
+.tradingtools-p1 h3{
+  margin: .8rem 0;
+}
+.tradingtools-text{
+  color: #666;
+  font-size: .32rem;
+  line-height: 2;
+  text-align: left;
+}
+.tradingtools-p2-middle{
+  margin: .666667rem 0 .8rem 0;
+}
+.tradingtools-p2-middle img{
+  width: 8rem;
+}
+.tradingtools-p2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #666;
+}
+.tradingtools-p2-list{
+  display: flex;
+  align-items: center;
+  margin-bottom: .4rem;
+  text-align: left;
+}
+.tradingtools-p2-cons p{
+  display: inline;
+}
+.tradingtools-p2-img{
+  margin-right: .4rem;
+}
+
+.tradingtools-p3{
+  position: relative;
+}
+.tradingtools-p3-img-bg{
+  height: 6rem;
+}
+.tradingtools-p3-img-bg img {
+  width: 6rem;
+  text-align: center;
+  position: relative;
+  left: 6%;
+}
+.tradingtools-down{
+  text-align: center;
+  font-size: .4rem;
+  color: #fff;
+  padding-top: 4rem;
+}
+.tradingtools-p3-bg{
+  background: url(../images/tool/iphone-bg.png) no-repeat;
+  width: 100%;
+  height: 10rem;
+  background-size: contain;
+  position: relative;
+  top: -20%;
+  z-index: -1;
+  margin-bottom: 1.333333rem;
+}
+.tradingtools-p3-dowx-text{
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 1.6rem;
+  justify-content: space-between;
+  align-items: flex-end;
+  font-size: .266667rem;
+}
+.tradingtools-p3-dowx-text p{
+  cursor: pointer;
+  margin-top: .773333rem;
+  color: #fff;
+  flex: 1;
+}
+.tradingtools-p3-dowx-text span{
+  display: inline-block;
+  position: absolute;
+}
+.tradingtools-p3-dowx-text .tradingtools-p3-1:hover{
+  background: url(../images/tool/down.png) no-repeat;
+  background-size: contain;
+}
+.tradingtools-p3-dowx-text p:hover{
+  color: #000;
+}
+.tradingtools-p3-1{
+  position: absolute;
+  height: .6rem;
+  width: .6rem;
+  left: 34%;
+  top: 40%;
+}
+.tradingtools-p3-2{
+  height: .8rem;
+  width: 1.066667rem;
+}
+.tradingtools-p3-3{
+  height: .8rem;
+  width: .933333rem;
+}
+.tradingtools-img{
+  position: relative;
+}
+.tradingtools-img img{
+  width: 1.866667rem;
+}

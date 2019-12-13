@@ -1,0 +1,129 @@
+
+
+
+.nesList-contnet{
+  margin: 0 .346667rem;
+}
+.new-search input{
+  width: 98%;
+  height: .786667rem;
+  padding: 0 .4rem 0 .133333rem;
+  color: #666;
+  text-align: left;
+  box-sizing: border-box;
+  border: none;
+}
+.new-search span{
+  float: right;
+  top: .213333rem;
+  right: .213333rem;
+  position: absolute;
+}
+.new-search span img{
+  height: .373333rem;
+}
+.new-search{
+  position: relative;
+  border: 1px solid #f4f4f4;
+  width: 100%;
+  height: .786667rem;
+  border-radius: .173333rem;
+}
+.new-margin{
+  margin: 1.133333rem .266667rem .6rem .266667rem;
+  box-sizing: border-box;
+}
+
+.resources-p1{
+  width: 100%;
+}
+.resources-con-title{
+  margin: .586667rem 0 .453333rem 0;
+  font-size: .133333rem;
+  color: #666;
+}
+
+.resources-con-one-con h3{
+  font-size: .32rem;
+  color: #31364C;
+  margin-bottom: .133333rem;
+}
+.resources-con-one-con h5{
+  font-size: 14px;
+  margin-bottom: .133333rem;
+  color: #999;
+ vertical-align: middle;
+ padding-top: .266667rem;
+}
+.resources-con-one-con{
+  padding: 0 .413333rem;
+  box-sizing: border-box;
+}
+.resources-con-one-con h5 span{
+  position: relative;
+  top: -0.026667rem;
+  font-size: .213333rem;
+}
+.resources-con-one-con h5 img{
+  height: .426667rem;
+  width: .426667rem;
+}
+.resources-con-one-con p{
+  padding-top: .133333rem;
+  border-top:  .013333rem solid #f1eeee;
+  font-size: .186667rem;
+  line-height: 1.5;
+  color: #999;
+  margin-bottom: .266667rem;
+}
+.resources-more-more{
+  text-align: right;
+  padding: .213333rem .8rem;
+  border-radius: .266667rem;
+  background: #00bff3;
+  display: inline-block;
+  font-size: .213333rem;
+  color: #fff;
+}
+.resources-more-more:hover{
+  background: #2499c1;
+}
+.resources-con-one-btn{
+  height: .853333rem;
+  background: #f5f5f5;
+  position: relative;
+  margin: 0 .413333rem;
+}
+.resources-con-one-btn img{
+  height: .533333rem;
+  width: .533333rem;
+}
+.resources-more-right{
+  margin-top: 1.066667rem;
+  /* float: right; */
+  text-align: right;
+}
+.resources-con-one-btn-bg{
+  display: inline-block;
+  background-image: url(../images/resources/icon-chat.png);
+  background-repeat: no-repeat;
+  height: .426667rem;
+  width: .426667rem;
+  margin: .2rem 0  0 .2rem; 
+  background-position:right bottom;
+}
+.resources-con-one-img{
+  position: absolute;
+  right: -.266667rem;
+  top: .186667rem;
+}
+.resources-con-list{
+  background:rgba(255,255,255,1);
+  margin-bottom: .64rem;
+  box-shadow:0px  .053333rem .133333rem 0px rgba(0, 0, 0, 0.1);
+}
+
+.nesList-num-con{
+  margin:  1.226667rem 0;
+  text-align: center;
+}

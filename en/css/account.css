@@ -1,0 +1,290 @@
+.account-content{
+  width: 1200px;
+  margin: 0 auto;
+}
+.account-a1 h5.about-a1-title{
+  color: #333;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 90px;
+  padding: 0 60px;
+}
+.account-a1-img{
+  display: flex;
+  justify-content: center;
+  padding: 61px 60px 93px 60px;
+}
+.index-t3-co {
+  width: 335px;
+  height: 480px;
+  position: relative;
+  cursor: pointer;
+}
+/* .index-t3-l1{
+  background: url(../images/index/ecn-not.png)
+}
+.index-t3-l2{
+  background: url(../images/index/biaozhun-not.png);
+  margin:80px 38px 0 38px;
+}
+.index-t3-l3{
+  background: url(../images/index/xuni-not.png)
+}
+.index-t3-l1:hover{
+  background: url(../images/index/ecn-yes.png)
+}
+.index-t3-l2:hover{
+  background: url(../images/index/biaozhun-yes.png);
+  margin:80px 38px 0 38px;
+}
+.index-t3-l3:hover{
+  background: url(../images/index/xuni-yes.png)
+} */
+.index-t3-co .index-t3-btn{
+  position: absolute;
+  bottom: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 14px 38px;
+  color: #666;
+  font-size: 14px;
+  border-radius: 20px;
+  border: 1px solid #2bb7e7;
+  z-index: 3;
+}
+.index-t3-co .index-t3-btn-3{
+  width: 189px;
+  padding: 14px 0;
+  box-sizing: border-box;
+  text-align: center
+}
+.index-t3-co .index-t3-btn:hover{
+  color: #fff;
+  background:  #2bb7e7;
+}
+.account-a1-p1{
+  margin-bottom: 90px;
+  text-align: center;
+  font-size: 16px;
+}
+.account-a1-biao{
+  margin-bottom: 78px;
+  text-align: center;
+
+}
+.account-a1 h5{
+  font-size: 18px;
+  margin-bottom: 28px;
+  color: #666;
+  padding: 0 60px;
+  text-align: center;
+}
+.account-a1 p.account-a1-p1{
+  color: #333;
+  font-size: 20px;
+  padding: 0 150px;
+  line-height: 2;
+}
+.account-a1-text{
+  margin-bottom: 51px;
+  color: #999;
+  font-size: 14px;
+  padding: 0 100px;
+  line-height: 2;
+}
+.account-a1-text1{
+  margin-bottom: 81px;
+}
+.account-a1-botimg{
+  margin-bottom: 259px;
+  margin-top: 114px;
+}
+.account-a1-biao-bg{
+  background: url(../images/account/biao-bg.png) no-repeat;
+  height: 1048px;
+  height: 551px;
+  margin-left: 76px;
+  position: relative;
+}
+.account-al-content{
+  display: flex;
+  position: absolute;
+  top: 20%;
+  left: 2%;
+  width: 1000px;
+  justify-content: space-between;
+  padding: 20px 0;
+  box-sizing: border-box;
+  flex-direction: column;
+}
+.account-al-content p:nth-child(2n+1){
+  background: #f7f7f7;
+}
+/* .account-al-content p span:first-child{
+  width: 140px;
+} */
+.account-al-content p{
+  /* padding: 33px 0; */
+  display: flex;
+  height: 80px;
+  align-items: center;
+}
+.account-al-content p span{
+  display: inline-block;
+  /* flex: 1; */
+ /* line-height: 3.5; */
+ font-size: 18px;
+ color: #666;
+ width: 200px;
+ height: 40px;
+ line-height: 40px;
+ border-right: 1px solid  #e5e5e5;
+ /* padding: 26px; */
+}
+.account-al-content p span:first-child{
+  width: 160px;
+}
+.account-al-content p span:nth-child(4){
+  width: 220px;
+}
+/* .account-al-content p span:nth-child(4){
+  width: 260px;
+} */
+.account-al-content p span:last-child{
+  border: 0;
+}
+/* .account-al-content p span:nth-child(2n+1){
+  background: #f7f7f7;
+} */
+.account-al-content p{
+padding: 0;
+}
+.account-al-content p:nth-child(2n+1) span:nth-child(2n){
+ border: 0;
+}
+.account-al-content p:nth-child(2) span:nth-child(2n){
+  border: 0;
+ }
+ .account-al-content p span.account-noborder{
+  border-right: 1px solid  #e5e5e5 !important;
+  /* width: 400px !important; */
+ }
+ .account-al-content p span.account-noborder-no{
+  border-right: 0;
+  /* width: 260px !important; */
+ }
+.account-a1-title{
+  display: flex;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  width: 980px;
+  padding: 60px;
+  /* justify-content: center; */
+  box-sizing: border-box;
+}
+.account-a1-title span{
+  padding: 0 30px;
+  color: #333;
+  font-size: 22px;
+  margin-left: 210px;
+  display: inline-block;
+  width: 200px;
+}
+.account-a1-title span.account-a1-chujin{
+  /* padding:0 20px; */
+  margin-left: 150px;
+}
+.index-t3-content{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 118px;
+  margin-top: 124px;s
+}
+.index-t3-one{
+  margin-bottom: 22px;
+  font-size: 16px;
+}
+.index-t3-co {
+  width: 335px;
+  height: 480px;
+  position: relative;
+  cursor: pointer;
+  color: #666;
+  box-sizing: border-box;
+  padding-left: 30px;
+}
+.index-t3-co:hover{
+  background: #f5f8f8;
+}
+.index-t3-co h5{
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+.index-t3-list{
+  color: #999;
+}
+.index-t3-co .index-t3-bg{
+display: inline-block;
+background: url(../images/index/biaozhi.png) no-repeat;
+height: 10px;
+width: 15px;
+background-size: contain;
+margin-right: 29px;
+}
+.index-t3-m{
+  margin-right: 35px;
+  width: 120px;
+  display: inline-block;
+}
+.index-t3-r{
+  width: 70px;
+  display: inline-block;
+  text-align: right;
+}
+/* .index-t3-l1{
+  background: url(../images/index/ecn-not.png)
+}
+.index-t3-l2{
+  background: url(../images/index/biaozhun-not.png)
+}
+.index-t3-l3{
+  background: url(../images/index/xuni-not.png)
+}
+.index-t3-l1:hover{
+  background: url(../images/index/ecn-yes.png)
+}
+.index-t3-l2:hover{
+  background: url(../images/index/biaozhun-yes.png)
+}
+.index-t3-l3:hover{
+  background: url(../images/index/xuni-yes.png)
+} */
+.index-t3-co .index-t3-btn{
+  position: absolute;
+  bottom: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 14px 38px;
+  color: #666;
+  font-size: 14px;
+  border-radius: 20px;
+  border: 1px solid #2bb7e7;
+  z-index: 3;
+}
+.index-t3-co .index-t3-btn-3{
+  width: 189px;
+  padding: 14px 0;
+  box-sizing: border-box;
+  text-align: center
+}
+.index-t3-co .index-t3-btn:hover{
+  color: #fff;
+  background:  #2bb7e7;
+}
+.account-al-content p span.account-list-num{
+  width: 400px;
+}

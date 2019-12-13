@@ -1,0 +1,111 @@
+.cooperation-con-list{
+  background: url(../images/cooperation/map-p2.png) no-repeat;
+  width: 100%;
+  background-size: contain;
+}
+.cooperation-con h3{
+  font-size: .48rem;
+  color: #333;
+  margin: .973333rem 0 1.24rem 0;
+  text-align: center;
+}
+.cooperation-tab{
+  margin-right: .4rem;
+}
+.cooperation-tab img{
+  height: .32rem;
+  position: relative;
+  top: 0.04rem;
+}
+.cooperation-list{
+  display: flex;
+  margin: 0 0.48rem .76rem 0.48rem;
+}
+.cooperation-text h5{
+  color: #2BB7E7;
+  font-size: .32rem;
+  margin-bottom: .32rem;
+}
+.cooperation-text{
+  color: #999;
+    font-size: .293333rem;
+  line-height: 1.5;
+}
+.cooperation-text-p1{
+ margin-bottom: .4rem;
+}
+.cooperation-con-map{
+  margin-top: 2.826667rem;
+}
+.cooperation-form-text{
+  text-align: center;
+  font-size: .32rem;
+  color: #666;
+  line-height: 2;
+  margin-bottom: 1.066667rem;
+}
+.cooperation-form-left{
+text-align: center;
+}
+.cooperation-form-content{
+  margin-left: .853333rem;
+  color: #bbb;
+}
+.uesr-input{
+  display: flex;
+  width: 8.36rem;
+  height: .92rem;
+  line-height: .92rem;
+  text-align: center;
+  border:1px solid rgba(204, 204, 204, 1);
+  margin-bottom: .533333rem;
+  padding: 0 .266667rem;
+  box-sizing: border-box;
+}
+.uesr-input label{
+  width: 2.666667rem;
+  text-align: left;
+}
+.uesr-input input{
+  border: none;
+}
+.uesr-textarea textarea{
+  border: none;
+}
+.cooperation-form-right{
+  margin-top: 1.146667rem;
+}
+.uesr-textarea{
+  width: 8.36rem;
+  border:1px solid rgba(204, 204, 204, 1);
+  padding: .266667rem;
+  box-sizing: border-box;
+}
+.cooperation-form-btn{
+  text-align: center;
+  padding: 1.333333rem 0;
+}
+.cooperation-form-push{
+  display: inline-block;
+  width: 3.64rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  text-align: center;
+  background: #2BB7E7;
+  color: #fff;
+  font-size: .346667rem;
+}
+.cooperation-con-map{
+  position: relative;
+}
+.cooperation-form-bg{
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+height: 5.573333rem;
+}
+.cooperation-form-bg img{
+  width: 100%;
+  height: 5.573333rem;
+}

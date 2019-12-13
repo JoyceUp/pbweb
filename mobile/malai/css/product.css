@@ -1,0 +1,78 @@
+.product-content{
+  margin: 0 .48rem;
+}
+p{
+  line-height: 2;
+}
+.product-list-1{
+  text-align: center;
+}
+.product-p1{
+  margin-top: .826667rem;
+  margin-bottom: .546667rem;
+}
+.product-p1 img{
+  height: .773333rem;
+}
+.product-p2-t1 h5{
+  font-size: .48rem;
+  color: #262626;
+  margin-bottom: .333333rem;
+}
+.product-p2-t1 p{
+  text-align: left;
+}
+.product-p2-co-title{
+  padding-top: .266667rem;
+}
+.product-p2-name{
+  color: #333;
+  font-size: .293333rem;
+  margin-bottom: .32rem;
+}
+.product-p2-pTitle{
+  color: #999;
+  font-size: .293333rem;
+  margin-bottom: .626667rem;
+  text-align: left;
+}
+.product-p2-co-img{
+  background:rgba(247,249,249,1);
+box-shadow:0px 3px 10px 0px rgba(0, 0, 0, 0.1);
+border-radius:5px;
+padding-bottom: .4rem;
+}
+.product-p2-content{
+  margin: .52rem .266667rem;
+  background:rgba(255,255,255,1);
+  border: .013333rem solid rgba(255,255,255,1);
+  border-radius:.293333rem ;
+  padding: .266667rem;
+}
+.product-pro-1-co>img{
+  width: 100%;
+}
+.product-p2-content h5{
+  margin-top: .306667rem;
+  margin-bottom: .306667rem;
+  line-height: 1.5;
+}
+.product-p2-list p{
+  display: flex;
+}
+.product-p2-list p span{
+ flex: 1;
+}
+.product-p2-time img{
+  height: .48rem;
+  width: .48rem;
+}
+.product-p2-time{
+  margin-top: .4rem;
+}
+.product-p2-co-chajia{
+  padding-top: .56rem;
+}
+.product-p2-co{
+  margin-bottom: 1.333333rem;
+}

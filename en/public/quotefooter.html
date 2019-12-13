@@ -1,0 +1,73 @@
+<div class="footer-fixd">
+    <!-- <div class="footer-bg-f1"></div> -->
+    <div class="footer-bg-f1-name">
+        <div id="lsit">
+            <ul>
+                <li>
+                    <span>AAPL</span>
+                    <span>1392.00</span>
+                </li>
+                <li>
+                    <span>EURUSD</span>
+                    <span>1.12154</span>
+                </li>
+                <li>
+                    <span>GBPUSD</span>
+                    <span>1.24582</span>
+                </li>
+                <li>
+                    <span>USDX</span>
+                    <span>58.811</span>
+                </li>
+                <li>
+                    <span>GOLD</span>
+                    <span>201.67</span>
+                </li>
+                <li>
+                    <span>USOIL</span>
+                    <span>2798.50</span>
+                </li>
+                <li>
+                    <span>Trading responsibilities:</span>
+                    <span>There is a significant risk of loss in CFDs investments.</span>
+                </li>
+            </ul>
+        </div>
+        <div class="footer-bg-right">
+            <div class="footer-bg-btn" onclick="window.location.href='https://my.pribizco.com/public/registeren/l/en-us?channel=3'">
+                Get Started
+            </div>
+            <div>
+                <img src="./images/index/down.png" alt="" class="footer-bg-down">
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $.get("https://crm.pribizco.com/Public/getquote",{},
+        function(data){
+            var $div=$('#lsit');
+            var html='<ul>';
+            $.each(data,function(i,item){       //  i 相当于字典的key;  item相当于字典的value
+                if(item.SYMBOL =='#Apple'){
+                    item.SYMBOL='AAPL';
+                }
+                if(item.SYMBOL =='XAUUSD'){
+                    item.SYMBOL='GOLD';
+                }
+                if(item.SYMBOL =='XTIUSD'){
+                    item.SYMBOL='USOIL';
+                }
+                html+='<li>';
+                html+='<span >'+item.SYMBOL+'</span>';
+                html+='<span>'+Number(item.ASK).toFixed(4)+'</span>';
+                html+='</li>';
+            });
+            html+='<li>';
+            html+='<span >'+"Trading responsibilities:"+'</span>';
+            html+='<span style="color: #999">'+"There is a significant risk of loss in CFDs investments."+'</span>';
+            html+='</li>';
+            html+='</ul>';
+            $div.html(html);
+        },'json');
+</script>

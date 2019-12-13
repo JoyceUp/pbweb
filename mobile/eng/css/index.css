@@ -1,0 +1,203 @@
+.main{
+  margin: 0 .48rem;
+  text-align: center;
+}
+.index-t1{
+  margin-top: .84rem;
+  font-size: .533333rem;
+  color: #333333;
+}
+.index-t1-one{
+  margin-bottom: .573333rem;
+  line-height: 1.5;
+}
+.index-t1-two img{
+  width: 7.96rem;
+}
+.index-t1-one img{
+  height: .533333rem;
+  width: .533333rem;
+  vertical-align: middle;
+}
+.index-t1-one span{
+  color: #37C7F8;
+}
+/* 2 */
+.index-t2 h3{
+  margin-top: 1.333333rem;
+  color: #333333;
+  font-size: .533333rem;
+}
+.index-t2  p{
+  font-size: .346667rem;
+}
+.index-t2 .index-t2-p1{
+  color: #999;
+  margin-top: .466667rem;
+  margin-bottom: .333333rem;
+  color: #999;
+  line-height: 1.5;
+}
+.index-t2 .index-t2-p2{
+  color: #25B7E1;
+}
+.index-t2  img{
+  height: .346667rem;
+  margin-right: .346667rem;
+}
+.index-t2-img{
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+}
+.index-t2-img img{
+  height: 8.493333rem;
+  width: 100%;
+}
+.index-t3{
+
+}
+.index-t3{
+  display: flex;
+  align-items: center;
+  margin-left: .48rem;
+  text-align: center;
+}
+.index-t3-l{
+  width: 4.586667rem;
+  font-size: .32rem;
+  color: #333;
+}
+.index-t3-l p{
+  line-height: 1.5;
+}
+.index-t2-p2{
+  color: #25B7E1;
+  margin-top: .266667rem;
+}
+.index-t2-p2 img{
+  height: .32rem;
+  margin-right: .266667rem;
+}
+.index-t3-r{
+width: 4.893333rem;
+}
+.index-t3-r img{
+  width: 4.893333rem
+}
+.index-t4{
+  margin-top: .8rem;
+  margin-bottom: .493333rem;
+}
+.index-t4 h3{
+  color: #333;
+  font-size: .533333rem;
+  margin-bottom: .306667rem;
+}
+.index-t4 .index-t4-bg{
+  background: url(../images/banner/iphone-bg.png) no-repeat;
+  width: 8.146667rem;
+  height: 5.013333rem;
+  background-size: contain;
+  position: relative;
+}
+.index-t4-bg img{
+  width: 4.213333rem;
+  height: 4.493333rem;
+  position: absolute;
+  bottom: 0;
+  right: .533333rem;
+}
+.index-t4-btn{
+  position: absolute;
+  left: .533333rem;
+  top: 50%;
+  margin-top: -0.666667rem;
+}
+.index-t4-btn p{
+ height: .533333rem;
+ width: 1.44rem;
+ font-size: .32rem;
+ border-radius: .266667rem;
+ border: .026667rem solid #25B7E1;
+ color: #666;
+ line-height: .533333rem;
+}
+.index-t4-btn .index-t4-btn-p1{
+  margin-bottom: .346667rem;
+}
+.index-t4-btn p:hover{
+  background: #25B7E1;
+  color: #fff;
+}
+.index-t5 {
+  margin-top: .8rem;
+  margin-bottom: .8rem;
+}
+.index-t5 h3{
+  font-size: .533333rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: .533333rem;
+}
+.index-t5-con{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.index-t5-list{
+  display: flex;
+  flex-direction: column;
+}
+.index-t5-img img{
+  width: .893333rem;
+  height: .746667rem;
+}
+.index-t5-title{
+    font-size: .293333rem;
+  color: #333;
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+}
+.index-t5-more{
+  color: #25B7E1;
+}
+.index-t6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: .266667rem;
+}
+.index-t6-l> p {
+  font-size: .333333rem;
+  color: #333;
+  text-align: left;
+  margin-bottom: .48rem;
+}
+.index-t6-btn{
+  font-size: .226667rem;
+  display: flex;
+}
+.index-t6-btn-1{
+ background: #25B7E1;
+ color: #fff;
+ display: inline-block;
+ padding: 0 .4rem;
+ height: .56rem;
+ text-align: center;
+ line-height: .56rem;
+ border-radius: .266667rem;
+ margin-right: .666667rem;
+}
+.index-t6-btn-2{
+  color: #25B7E1;
+  text-decoration: underline;
+  position: relative;
+  top: .08rem;
+}
+.index-t6-r img{
+  width: 2.76rem;
+  height: 3.053333rem;
+}
+.index-t3-l p:first-child{
+  text-align: left;
+}

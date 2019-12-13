@@ -1,0 +1,106 @@
+.tradingtools-contnet{
+  width: 1200px;
+  margin: 0 auto;
+}
+.tradingtools-p1 h3{
+  font-size: 36px;
+  color: #333;
+  margin: 98px 0 87px 0;
+  text-align: center;
+}
+.tradingtools-p1 p{
+  line-height: 2;
+  color: #999;
+  text-align: center;
+  font-size: 16px;
+}
+.tradingtools-text{
+  margin-bottom: 178px;
+}
+.tradingtools-p2{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 130px;
+}
+.tradingtools-p2-cons{
+  width: 320px;
+  color: #999;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.tradingtools-p2-left img{
+  width: 104px;
+  height: 104px;
+}
+.tradingtools-p2-right img{
+  width: 104px;
+  height: 104px;
+}
+.tradingtools-p2-list{
+  height: 287px;
+  margin-bottom: 20px;
+}
+.tradingtools-p3-bg{
+  background: url(../images/tool/tool-foot.png) no-repeat;
+  height: 1200px;
+  height: 522px;
+  position: relative;
+  margin-bottom: 260px;
+}
+.tradingtools-p3-dowx-text{
+  width: 644px;
+  height: 200px;
+  display: flex;
+  position: absolute;
+  right: 80px;
+  bottom: 120px;
+  justify-content: space-between;
+  /* position: relative; */
+  align-items: flex-end;
+  font-size: 16px;
+}
+.tradingtools-p3-dowx-text p{
+  cursor: pointer;
+  margin-top: 58px;
+  color: #fff;
+}
+.tradingtools-p3-dowx-text span{
+  display: inline-block;
+}
+.tradingtools-p3-dowx-text span:hover{
+  /* background: url(../images/tool/down.png) no-repeat; */
+  /* width: 27px; */
+  /* height: 23px; */
+  /* margin-left: 10px; */
+  background: url(../images/tool/down.png) no-repeat;
+  background-position: 20px 20px;
+}
+.tradingtools-p3-dowx-text p:hover{
+  color: #000;
+}
+.tradingtools-p3-1{
+  height: 60px;
+  width: 60px;
+  margin-left: 20px;
+}
+.tradingtools-p3-2{
+  height: 60px;
+  width: 80px;
+  margin-left: 23px;
+}
+.tradingtools-p3-3{
+  height: 60px;
+  width: 70px;
+  margin-right: 7px;
+}
+.tradingtools-p3-4{
+  height: 60px;
+  width: 70px;
+  margin-right: 10px;
+}
+.tradingtools-p3-5{
+  height: 60px;
+  width: 70px;
+  margin-right: 52px;
+}

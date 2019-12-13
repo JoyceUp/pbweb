@@ -1,0 +1,234 @@
+.main{
+  margin: 0 .48rem;
+}
+.about-content{
+  font-size: .266667rem;
+}
+.about-a1 {
+  padding-top: .986667rem;
+
+}
+.about-a1 h3{
+  margin-bottom: .626667rem;
+}
+h3{
+  font-size: .48rem;
+  color: #333;
+  text-align: center;
+}
+.about-a1-second{
+  font-size: .266667rem;
+  color: #666;
+  margin-bottom: .6rem;
+  line-height: 2;
+}
+.about-a1-img{
+  margin-bottom: .573333rem;
+}
+.about-a1-img img{
+  width: 100%;
+}
+.about-a1-bot{
+  display: flex;
+  color: #666;
+  font-size: .266667rem;
+  flex-direction: column;
+  text-align: left;
+  padding-bottom: .626667rem;
+  border-bottom: .013333rem solid #f1eeee;
+}
+.about-a1-bot .about-a1-p1{
+  flex: 1;
+    display: inline-block;
+    line-height: 2;
+}
+.about-a1-bot p:first-child{
+  margin-bottom: .333333rem;
+}
+.about-a2 h3{
+  padding: .546667rem 0 .506667rem 0;
+}
+.about-a2-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; 
+}
+.about-a2-content img{
+ width: 2.56rem;
+ height: 2.16rem;
+}
+.about-a3 h3{
+  padding-bottom: .333333rem;
+}
+.about-a3-text{
+  /* background:rgba(245,248,248,1); */
+  padding: .293333rem .2rem;
+}
+.about-a3-text p{
+  line-height: 2;
+}
+.about-a3{
+ margin-top: .946667rem;
+}
+.about-a3:hover{
+  background-color: #f5f8f8;
+}
+.about-a4{
+  padding: .466667rem .133333rem;
+  margin-bottom: .133333rem;
+  font-size: .266667rem;
+}
+.about-a4:hover{
+  background-color: #f5f8f8;
+}
+.about-a5 {
+  padding: .466667rem .133333rem;
+  margin-bottom: .133333rem;
+  font-size: .266667rem;
+}
+.about-a5:hover{
+  background-color: #f5f8f8;
+}
+.about-a4 h5{
+  color: #333;
+  font-size: .266667rem;
+  margin-bottom: .24rem;
+  text-align: center;
+}
+.about-a4 .about-a4-p1{
+ font-size: .266667rem;
+ color: #282828;
+ line-height: 2;
+ margin-bottom: .133333rem;
+}
+.about-a4 .about-a4-p2{
+  font-size: .266667rem;
+  color: #666;
+  line-height: 2;
+ }
+ .about-a4-conetnt1{
+   padding-bottom: 40px;
+ }
+ .about-a5 h5{
+   color: #161616;
+   font-size: .266667rem;
+   margin-bottom: .346667rem;
+   text-align: center;
+ }
+ .about-a5 .about-a5-p1{
+  font-size: .266667rem;
+  color: #282828;
+  line-height: 2;
+  margin-bottom: .133333rem;
+ }
+ .about-a5 .about-a5-p2{
+   font-size: .266667rem;
+   color: #666;
+   line-height: 2;
+   margin-bottom: .133333rem;
+  }
+ /* a6 */
+
+
+ .about-a6 {
+   margin-top: 1.706667rem;
+   border: .026667rem solid #2BB7E7;
+   position: relative;
+ }
+ .about-a6 h3{
+   color: #161616;
+   font-size: .48rem;
+   margin: .333333rem 0 .466667rem 0;
+ }
+ .about-a6-jian{
+   text-align: center;
+ }
+ .about-a6-jian p{
+   width: 5.12rem;
+   font-size: .266667rem;
+   display: inline-block;
+   line-height: 2;
+   color: #666;
+ }
+.about-a6-change1{
+  display: flex;
+  height: 3.466667rem;
+  align-items: center;
+}
+.about-a6-right-center h5{
+  font-size: .24rem;
+  color: #333;
+  margin-top: .266667rem;
+  margin-bottom: .4rem;
+}
+.about-a6-right-center p{
+  color: #666;
+}
+.about-a6-right{
+  display: flex;
+  flex-direction: column;
+  padding: .533333rem;
+}
+.about-a6-change1-img{
+  width: 1.6rem;
+  margin-right: .4rem;
+}
+.about-a6-change1-img img{
+  width: 1.6rem;
+}
+
+
+ /*  */
+  .about-a7-bgtitle{
+    background: url(../images/about/not-click.png) no-repeat;
+    background-size: cover;
+    height:1.226667rem;
+    text-align: center;
+    line-height: 1.226667rem;
+    color: #666;
+    font-size: .266667rem;
+    margin: .906667rem 0 .266667rem 0;
+    border-right:1px solid rgba(43,183,231,1);
+  }
+  .about-a7 h3{
+    text-align: center;
+    font-size: .48rem;
+    margin: .586667rem 0 .666667rem 0;
+  }
+  .about-a7-bgtitle:hover{
+    background: url(../images/about/yes-click.png) no-repeat;
+    color: #51c8f4;
+    background-size: cover;
+    border-right:1px solid rgba(232, 232, 232, 1);
+  }
+  .about-a7-right{
+    padding: .493333rem 0 .626667rem 0;
+    background: #f5f8f8;
+  }
+  .about-a7-right p{
+    line-height: 2;
+    margin-bottom: 20px;
+    color: #999;
+    margin: 0 16px 20px 16px;
+  }
+  .about-a7-right h5{
+color: #00aeef;
+line-height: 2;
+margin: 0 16px 20px 16px;
+  }
+  .about-a7-right p.about-a7-p1{
+    margin-bottom: .533333rem;
+    color: #666;
+  }
+  .about-a8-right{
+    padding: .346667rem 0 3.413333rem;
+    background: #f5f8f8;
+  }
+  .about-a8-right p{
+    line-height: 2;
+    color: #999;
+    margin: 0 16px;
+  }
+  .about-a4-content1{
+    margin-bottom: 20px;
+  }
